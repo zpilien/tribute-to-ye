@@ -27,7 +27,7 @@ Ye more commonly known by his birth name Kanye West, is an American rapper, reco
 
 West, the child of a photographer and former Black Panther father and a college professor mother, grew up in Chicago and attended Chicago State University for one year before dropping out to pursue a career in music. Early on he demonstrated his considerable abilities as a producer, contributing to Jermaine Dupri’s album Life in 1472 (1998) before relocating to the New York City area, where he made his name with his production work for Roc-A-Fella Records, especially on rapper Jay-Z’s album Blueprint (2001). 
  
-“I’m not comfortable with comfort. I’m only comfortable when I’m in a place where I’m constantly learning and growing.” - Kanye West	
+> “I’m not comfortable with comfort. I’m only comfortable when I’m in a place where I’m constantly learning and growing.” - Kanye West	
  
 Milestones
 * 1977 - Kanye Omari West born in Atlanta, GA
