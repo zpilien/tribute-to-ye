@@ -30,7 +30,7 @@ West, the child of a photographer and former Black Panther father and a college 
 “I’m not comfortable with comfort. I’m only comfortable when I’m in a place where I’m constantly learning and growing.” - Kanye West	
  
 Milestones
-*1977 - Kanye Omari West born in Atlanta, GA
+*1977 - Kanye Omari West born in Atlanta, GA*
   *But grew up in Chicago
 *1987 - Moved with his mother to Nanjing, China
   *Mother was a visiting professor
