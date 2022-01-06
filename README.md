@@ -30,22 +30,22 @@ West, the child of a photographer and former Black Panther father and a college 
 “I’m not comfortable with comfort. I’m only comfortable when I’m in a place where I’m constantly learning and growing.” - Kanye West	
  
 Milestones
-*1977 - Kanye Omari West born in Atlanta, GA*
-  *But grew up in Chicago
-*1987 - Moved with his mother to Nanjing, China
-  *Mother was a visiting professor
-*1998 - Drops out of Chicago State University to pursue his musical dreams
-2001 - Producer for Jay-Z’s album The Blueprint, one of the greatest hip-hop albums
-2004 - Releases his debut album The College Dropout, which was voted album of the year by two major music publications
-2005 - Releases follow-up album Late Registration, which sold over 2.3 million units at the end of the year
-2007- Releases third album Graduation
-2008 - Releases 808s & Heartbreaks
-2010 - Releases My Beautiful Dark Twisted Fantasy
-2013 - Adidas announces apparel collaborations with Kanye West
-Yeezy!
-2014 - Marries Kim Kardashian
-2019 - Starts his weekly Sunday Service orchestration
-2021 - Separation from Kim Kardashian
+* 1977 - Kanye Omari West born in Atlanta, GA
+  * But grew up in Chicago
+* 1987 - Moved with his mother to Nanjing, China
+  * Mother was a visiting professor
+* 1998 - Drops out of Chicago State University to pursue his musical dreams
+* 2001 - Producer for Jay-Z’s album The Blueprint, one of the greatest hip-hop albums
+* 2004 - Releases his debut album The College Dropout, which was voted album of the year by two major music publications
+* 2005 - Releases follow-up album Late Registration, which sold over 2.3 million units at the end of the year
+* 2007- Releases third album Graduation
+* 2008 - Releases 808s & Heartbreaks
+* 2010 - Releases My Beautiful Dark Twisted Fantasy
+* 2013 - Adidas announces apparel collaborations with Kanye West
+ * Yeezy!
+* 2014 - Marries Kim Kardashian
+* 2019 - Starts his weekly Sunday Service orchestration
+* 2021 - Separation from Kim Kardashian
  
  
 Drama
