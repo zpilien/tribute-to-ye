@@ -33,7 +33,7 @@ Milestones
 * 1977 - Kanye Omari West born in Atlanta, GA
   * But grew up in Chicago
 * 1987 - Moved with his mother to Nanjing, China
-  * Mother was a visiting professor at [Nanjink University](https://www.nju.edu.cn/en/main.psp/ "Nanjing University")
+  * Mother was a visiting professor at [Nanjing University](https://www.nju.edu.cn/en/main.psp "Nanjing University")
 * 1998 - Drops out of Chicago State University to pursue his musical dreams
 * 2001 - Producer for Jay-Z’s album The Blueprint, one of the greatest hip-hop albums
 * 2004 - Releases his debut album The College Dropout, which was voted album of the year by two major music publications
