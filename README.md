@@ -48,7 +48,6 @@ Milestones
 * 2021 - Separation from Kim Kardashian
  
  
-Drama
 Top 10 Dramas
  
 1. Interupts Taylor Swift’s speech at MTV VMA (2011)
