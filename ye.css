@@ -1,6 +1,7 @@
 body{
     background-color: coral;
     font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 h1{
@@ -18,11 +19,24 @@ h2{
 #background1{
     float: left;
     width: 50%;
+    border:1px solid;
 }
-
+#background2{
+    border:1px solid;
+}
 
 #quote{
     text-align: center;
     font-size:35px;
+   
+}
+
+#drama{
+    float: right;
+    border: 3px solid;
+}
+#milestones{
+    float: left;
+    width: 50%;
     border: 3px solid;
 }
